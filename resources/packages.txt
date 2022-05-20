@@ -1,0 +1,8 @@
+curl
+dnsutils
+iputils-ping
+mysql-client
+openssl
+ssh
+vim
+wget

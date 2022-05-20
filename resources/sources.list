@@ -1,0 +1,1 @@
+deb [trusted=yes] http://repo_clone:8080/ jammy main
